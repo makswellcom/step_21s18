@@ -1,0 +1,9 @@
+C:\Users\Max\Documents\GitHub\step_21s18\STEP_WF\STEP_WF.Less_03.Lists\bin\Debug\STEP_WF.Less_03.Lists.exe.config
+C:\Users\Max\Documents\GitHub\step_21s18\STEP_WF\STEP_WF.Less_03.Lists\bin\Debug\STEP_WF.Less_03.Lists.exe
+C:\Users\Max\Documents\GitHub\step_21s18\STEP_WF\STEP_WF.Less_03.Lists\bin\Debug\STEP_WF.Less_03.Lists.pdb
+C:\Users\Max\Documents\GitHub\step_21s18\STEP_WF\STEP_WF.Less_03.Lists\obj\Debug\STEP_WF.Less_03.Lists.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\GitHub\step_21s18\STEP_WF\STEP_WF.Less_03.Lists\obj\Debug\STEP_WF.Less_03.Lists.Form1.resources
+C:\Users\Max\Documents\GitHub\step_21s18\STEP_WF\STEP_WF.Less_03.Lists\obj\Debug\STEP_WF.Less_03.Lists.Properties.Resources.resources
+C:\Users\Max\Documents\GitHub\step_21s18\STEP_WF\STEP_WF.Less_03.Lists\obj\Debug\STEP_WF.Less_03.Lists.csproj.GenerateResource.Cache
+C:\Users\Max\Documents\GitHub\step_21s18\STEP_WF\STEP_WF.Less_03.Lists\obj\Debug\STEP_WF.Less_03.Lists.exe
+C:\Users\Max\Documents\GitHub\step_21s18\STEP_WF\STEP_WF.Less_03.Lists\obj\Debug\STEP_WF.Less_03.Lists.pdb
