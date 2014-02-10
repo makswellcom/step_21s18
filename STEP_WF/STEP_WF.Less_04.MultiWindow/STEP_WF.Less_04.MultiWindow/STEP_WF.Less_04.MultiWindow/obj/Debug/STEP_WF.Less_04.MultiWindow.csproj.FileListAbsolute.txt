@@ -1,0 +1,11 @@
+c:\users\max\documents\visual studio 2012\Projects\STEP_WF.Less_04.MultiWindow\STEP_WF.Less_04.MultiWindow\bin\Debug\STEP_WF.Less_04.MultiWindow.exe.config
+c:\users\max\documents\visual studio 2012\Projects\STEP_WF.Less_04.MultiWindow\STEP_WF.Less_04.MultiWindow\bin\Debug\STEP_WF.Less_04.MultiWindow.exe
+c:\users\max\documents\visual studio 2012\Projects\STEP_WF.Less_04.MultiWindow\STEP_WF.Less_04.MultiWindow\bin\Debug\STEP_WF.Less_04.MultiWindow.pdb
+c:\users\max\documents\visual studio 2012\Projects\STEP_WF.Less_04.MultiWindow\STEP_WF.Less_04.MultiWindow\obj\Debug\STEP_WF.Less_04.MultiWindow.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2012\Projects\STEP_WF.Less_04.MultiWindow\STEP_WF.Less_04.MultiWindow\obj\Debug\STEP_WF.Less_04.MultiWindow.Form1.resources
+c:\users\max\documents\visual studio 2012\Projects\STEP_WF.Less_04.MultiWindow\STEP_WF.Less_04.MultiWindow\obj\Debug\STEP_WF.Less_04.MultiWindow.Properties.Resources.resources
+c:\users\max\documents\visual studio 2012\Projects\STEP_WF.Less_04.MultiWindow\STEP_WF.Less_04.MultiWindow\obj\Debug\STEP_WF.Less_04.MultiWindow.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2012\Projects\STEP_WF.Less_04.MultiWindow\STEP_WF.Less_04.MultiWindow\obj\Debug\STEP_WF.Less_04.MultiWindow.exe
+c:\users\max\documents\visual studio 2012\Projects\STEP_WF.Less_04.MultiWindow\STEP_WF.Less_04.MultiWindow\obj\Debug\STEP_WF.Less_04.MultiWindow.pdb
+c:\users\max\documents\visual studio 2012\Projects\STEP_WF.Less_04.MultiWindow\STEP_WF.Less_04.MultiWindow\obj\Debug\STEP_WF.Less_04.MultiWindow.AboutForm.resources
+c:\users\max\documents\visual studio 2012\Projects\STEP_WF.Less_04.MultiWindow\STEP_WF.Less_04.MultiWindow\obj\Debug\STEP_WF.Less_04.MultiWindow.InputForm.resources
