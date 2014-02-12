@@ -1,0 +1,9 @@
+C:\Max\DropBox\max_b52\Dropbox\STEP\WinForms\09_listview_treeview\povtor\bin\Debug\povtor.exe.config
+C:\Max\DropBox\max_b52\Dropbox\STEP\WinForms\09_listview_treeview\povtor\bin\Debug\povtor.exe
+C:\Max\DropBox\max_b52\Dropbox\STEP\WinForms\09_listview_treeview\povtor\bin\Debug\povtor.pdb
+C:\Max\DropBox\max_b52\Dropbox\STEP\WinForms\09_listview_treeview\povtor\obj\Debug\povtor.csprojResolveAssemblyReference.cache
+C:\Max\DropBox\max_b52\Dropbox\STEP\WinForms\09_listview_treeview\povtor\obj\Debug\povtor.Form1.resources
+C:\Max\DropBox\max_b52\Dropbox\STEP\WinForms\09_listview_treeview\povtor\obj\Debug\povtor.Properties.Resources.resources
+C:\Max\DropBox\max_b52\Dropbox\STEP\WinForms\09_listview_treeview\povtor\obj\Debug\povtor.csproj.GenerateResource.Cache
+C:\Max\DropBox\max_b52\Dropbox\STEP\WinForms\09_listview_treeview\povtor\obj\Debug\povtor.exe
+C:\Max\DropBox\max_b52\Dropbox\STEP\WinForms\09_listview_treeview\povtor\obj\Debug\povtor.pdb

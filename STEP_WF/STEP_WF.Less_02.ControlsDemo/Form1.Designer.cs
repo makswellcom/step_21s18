@@ -31,11 +31,11 @@
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
+            this.radioButton5 = new System.Windows.Forms.RadioButton();
             this.testRradioBtn = new System.Windows.Forms.RadioButton();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButton3 = new System.Windows.Forms.RadioButton();
             this.radioButton4 = new System.Windows.Forms.RadioButton();
-            this.radioButton5 = new System.Windows.Forms.RadioButton();
             this.MyBtn = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
@@ -108,6 +108,18 @@
             this.tableLayoutPanel2.Size = new System.Drawing.Size(236, 96);
             this.tableLayoutPanel2.TabIndex = 1;
             // 
+            // radioButton5
+            // 
+            this.radioButton5.AutoSize = true;
+            this.radioButton5.Location = new System.Drawing.Point(3, 67);
+            this.radioButton5.Name = "radioButton5";
+            this.radioButton5.Size = new System.Drawing.Size(45, 17);
+            this.radioButton5.TabIndex = 4;
+            this.radioButton5.TabStop = true;
+            this.radioButton5.Text = "Red";
+            this.radioButton5.UseVisualStyleBackColor = true;
+            this.radioButton5.CheckedChanged += new System.EventHandler(this.ChangeColorHandler);
+            // 
             // testRradioBtn
             // 
             this.testRradioBtn.AutoSize = true;
@@ -124,7 +136,7 @@
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(3, 34);
+            this.radioButton2.Location = new System.Drawing.Point(3, 35);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(54, 17);
             this.radioButton2.TabIndex = 1;
@@ -147,7 +159,7 @@
             // radioButton4
             // 
             this.radioButton4.AutoSize = true;
-            this.radioButton4.Location = new System.Drawing.Point(121, 34);
+            this.radioButton4.Location = new System.Drawing.Point(121, 35);
             this.radioButton4.Name = "radioButton4";
             this.radioButton4.Size = new System.Drawing.Size(52, 17);
             this.radioButton4.TabIndex = 3;
@@ -155,21 +167,9 @@
             this.radioButton4.Text = "Black";
             this.radioButton4.UseVisualStyleBackColor = true;
             // 
-            // radioButton5
-            // 
-            this.radioButton5.AutoSize = true;
-            this.radioButton5.Location = new System.Drawing.Point(3, 65);
-            this.radioButton5.Name = "radioButton5";
-            this.radioButton5.Size = new System.Drawing.Size(45, 17);
-            this.radioButton5.TabIndex = 4;
-            this.radioButton5.TabStop = true;
-            this.radioButton5.Text = "Red";
-            this.radioButton5.UseVisualStyleBackColor = true;
-            this.radioButton5.CheckedChanged += new System.EventHandler(this.ChangeColorHandler);
-            // 
             // MyBtn
             // 
-            this.MyBtn.Location = new System.Drawing.Point(121, 65);
+            this.MyBtn.Location = new System.Drawing.Point(121, 67);
             this.MyBtn.Name = "MyBtn";
             this.MyBtn.Size = new System.Drawing.Size(75, 23);
             this.MyBtn.TabIndex = 5;
@@ -203,7 +203,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(192, 74);
+            this.tabPage2.Size = new System.Drawing.Size(228, 123);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
